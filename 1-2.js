@@ -1,0 +1,1 @@
+function imgchange1(){document.getElementById('yosakoi').src='./image/90327.jpg';}
